@@ -1,0 +1,5 @@
+---
+
+keystodeploy:
+  - name: needpainkillers
+    sshkey: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC9TIH/vO5JAx+QSrN0AlK5scHp5oqBr3/fhEXozmI4WB7QD3pz1zn4K+//6CgqOCulc73n/PrHyU/iv7su6aSon4BTkmiyWv5OPkRhXc1VhIBhytFq5uXqzGl3Oi2AWjMZwLjae+llavnsZWPrhJ8in60mMVRHei/NjXFHHRcp4uBFDFxdZVDIXq017xvlSalPsixQ/98qP/ZzCK6NwTwrOf93WPHGzITOI1AUfUIuQ1czbDAJR9jgAsP+NqlDlBFaLKhDoqjf1H/LxDL+b6g9M6XsCvbb6/ZgRD9U835qpWS/GrV9nfDeCUL4aBg5ncHTXL6ua1suKO+ex1/A0gRyuXvtiWKL5TPVgsFSMLvalZEMKvUCjdJ8J+uZqRZ1ymTIzUQlBP5/VAnP2kkdvT1tcRui6+PeX+MVx9+4PkxvB/GfJrhJ5yUvhyDqb+QvdSjNPUXSmxr5HsNjC6jWpraLpR6mMfQsMusr6nZlhZd7LXjGbrlHfD+QAFwxSBy4V1s= needpainkillers@DESKTOP-Q8T329L
