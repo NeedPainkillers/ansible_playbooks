@@ -1,0 +1,12 @@
+---
+
+- hosts: servers
+  remote_user: root
+
+  tasks:
+    - name: Create sudo user on target platform
+      user:
+        name: needpain
+        shell: /bin/bash
+        groups: sudo
+        append: yes
